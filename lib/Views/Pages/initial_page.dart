@@ -167,7 +167,7 @@ class _InitialPageState extends State<InitialPage> {
                                           ),
                                         ),
                                       ),
-                                      const SizedBox(width: 7),
+                                      const SizedBox(width: 8),
                                       GestureDetector(
                                         onTap: () async =>
                                             controller.deleteTask(controller
